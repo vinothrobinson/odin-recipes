@@ -1,1 +1,2 @@
 # odin-recipes
+The goal of this project is to create a web page that contains recipes. This will be created using only HTML. Through this project, I will display my understanding of the HTML boilerplate, text options, lists, as well as links and images.
