@@ -1,2 +1,2 @@
 # odin-recipes
-The goal of this project is to create a web page that contains recipes. This will be created using only HTML. Through this project, I will display my understanding of the HTML boilerplate, text options, lists, as well as links and images.
+The goal of this project was to originally create a web page that contains recipes. This will be created using only HTML. Through this project, I will display my understanding of the HTML boilerplate, text options, lists, as well as links and images. Upon learning more about CSS, I decided to update this project to include CSS elements as I continue to learn more about CSS.
