@@ -1,0 +1,18 @@
+.main-title {
+    background-color: rgb(48, 131, 248);
+    font-size: 38px;
+    font-family: "Roboto", "Economica", sans-serif;
+}
+
+h2 {
+    background-color: rgb(32, 139, 253);
+    font-family: "Roboto", "Economica", sans-serif;
+}
+
+h3 {
+    font-family: "Roboto", "Economica", sans-serif;
+}
+
+body {
+    background-color: rgb(120, 183, 250);
+}
