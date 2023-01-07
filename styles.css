@@ -2,11 +2,16 @@
     background-color: rgb(48, 131, 248);
     font-size: 38px;
     font-family: "Roboto", "Economica", sans-serif;
+    padding: 10px;
+    border: 2px solid rgb(0, 109, 226);
+    text-align: center;
 }
 
 h2 {
     background-color: rgb(32, 139, 253);
     font-family: "Roboto", "Economica", sans-serif;
+    padding: 5px;
+    border: 2px solid rgb(0, 109, 226);
 }
 
 h3 {
@@ -15,4 +20,33 @@ h3 {
 
 body {
     background-color: rgb(120, 183, 250);
+}
+
+.pizza,
+.cookie {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+
+.pancake,
+.recipe-book {
+    display: block;
+    margin: 0 auto;
+}
+
+.brief-overview {
+    background-color: rgb(32, 139, 253);
+    font-size: 20px;
+    width: 800px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 2px solid rgb(0, 109, 226);
+}
+
+.link-list {
+    background-color: rgb(32, 139, 253);
+    width: 400px;
+    margin: 10px auto;
+    border: 2px solid rgb(0, 109, 226);
 }
